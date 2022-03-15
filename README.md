@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikki7733
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning React and C#
+- 🌱 I’m currently learning React, Angular and C#
 - 💞️ I’m looking to collaborate on some cool projects.
 
 
